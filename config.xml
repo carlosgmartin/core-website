@@ -1,0 +1,10 @@
+<widget xmlns:gap = "http://phonegap.com/ns/1.0">
+  <name>
+    CORE
+  </name>
+  <description>
+    Columbia Organization of Rising Entrepreneurs
+  </description>
+  <icon src="icon.png"/>
+  <gap:splash src="splash.png"/>
+</widget>
